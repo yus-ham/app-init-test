@@ -1,0 +1,8 @@
+{
+  "name": "@yusham/app-init-test",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "app:init": "bun init.js"
+  }
+}
